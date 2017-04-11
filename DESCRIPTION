@@ -1,0 +1,10 @@
+Package: mtools
+Title: Tools for processing Migrate-n Bayesian output files
+Version: 0.1
+Authors@R: person("Lizandro N. Peraza-Flores", email = "lizandropf@gmail.com", role= c("aut", "cre"))
+Description: Tools for Migrate-n output files processing.
+Depends: R (>= 3.3.0)
+License: GPL
+Encoding: UTF-8
+LazyData: true
+NeedsCompilation: no
